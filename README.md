@@ -1,5 +1,5 @@
 Year 2 git course
 
-##Hello !
+Hello !
 
 Here is my first dev course with intro to GitHub. Enjoy !
