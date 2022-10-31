@@ -1,5 +1,5 @@
-Projet de cours a2 git
+Year 2 git course
 
-##Introduction 
+##Hello !
 
-Premier cours de dev avec intro à GitHub
+Here is my first dev course with intro to GitHub. Enjoy !
